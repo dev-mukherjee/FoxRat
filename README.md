@@ -25,8 +25,14 @@ PS1Screenshots [https://github.com/DimiDR/PS1Screenshots/blob/main/screenshot.ps
 	PRIVESC
 	WORM ABILITY
 	AV EVASION
+	KILL SWITCH
+	BREAK PC
+	GENERATE IN CONCOLE PAYLOADS
+	CUSTOM UPLOADS
 	COMMUNITY PLUGINS
+
 ## Roadmap
+	Staging
 	Redevelop Keylogger
  	Screenshots
   	Webcam
