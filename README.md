@@ -3,7 +3,7 @@ A Simple RAT with its own C2 Framework, to developed by Dev-Mukherjee (MrFox) as
 **Community Contributions Gladly Accepted.**
 
 ## Resources
-Ducky Logger[https://github.com/PrettyBoyCosmo/DucKey-Logger.git]
+Ducky Logger [https://github.com/PrettyBoyCosmo/DucKey-Logger.git]
 ## Components
 	KEYLOGER 
 		- Backspace Detection
