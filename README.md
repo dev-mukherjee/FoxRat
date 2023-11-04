@@ -1,10 +1,9 @@
 ## FOX RAT
-A Simple RAT with its own C2 Framework, to developed by Dev-Mukherjee (MrFox) as an project.
-**Community Contributions Gladly Accepted.**<br/>
-#Malware-dev #Cyber-Secutiy #RAT
+A Simple RAT with its own C2 Framework, to developed by Dev-Mukherjee (MrFox) as an project.<br/>
+**Community Contributions Gladly Accepted.**
 
 ## Resources
-
+Ducky Logger[https://github.com/PrettyBoyCosmo/DucKey-Logger.git]
 ## Components
 	KEYLOGER 
 		- Backspace Detection
