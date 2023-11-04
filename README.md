@@ -4,6 +4,7 @@ A Simple RAT with its own C2 Framework, to developed by Dev-Mukherjee (MrFox) as
 
 ## Resources
 Ducky Logger [https://github.com/PrettyBoyCosmo/DucKey-Logger.git]
+PS1Screenshots [https://github.com/DimiDR/PS1Screenshots/blob/main/screenshot.ps1]
 ## Components
 	KEYLOGER 
 		- Backspace Detection
@@ -27,6 +28,9 @@ Ducky Logger [https://github.com/PrettyBoyCosmo/DucKey-Logger.git]
 	COMMUNITY PLUGINS
 ## Roadmap
 	Redevelop Keylogger
+ 	Screenshots
+  	Webcam
+   	Microphone
 	Obfuscation
 		- AV Detection
 		- Sandbox Detection
