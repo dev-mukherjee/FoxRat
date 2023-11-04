@@ -1,6 +1,6 @@
 ## FOX RAT
 A Simple RAT with its own C2 Framework, to developed by Dev-Mukherjee (MrFox) as an project.
-**Community Contributions Gladly Accepted.**
+**Community Contributions Gladly Accepted.**<br/>
 #Malware-dev #Cyber-Secutiy #RAT
 
 ## Resources
